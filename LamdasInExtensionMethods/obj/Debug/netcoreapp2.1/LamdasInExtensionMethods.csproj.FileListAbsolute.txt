@@ -1,0 +1,11 @@
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\bin\Debug\netcoreapp2.1\LamdasInExtensionMethods.deps.json
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\bin\Debug\netcoreapp2.1\LamdasInExtensionMethods.runtimeconfig.json
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\bin\Debug\netcoreapp2.1\LamdasInExtensionMethods.runtimeconfig.dev.json
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\bin\Debug\netcoreapp2.1\LamdasInExtensionMethods.dll
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\bin\Debug\netcoreapp2.1\LamdasInExtensionMethods.pdb
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.AssemblyInfo.cs
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.dll
+C:\Users\olive\source\repos\LamdasInExtensionMethods\LamdasInExtensionMethods\obj\Debug\netcoreapp2.1\LamdasInExtensionMethods.pdb
